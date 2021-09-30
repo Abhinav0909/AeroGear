@@ -2,7 +2,7 @@ import React,{useRef} from 'react';
 import { auth } from '../../firebase';
 import firebase from 'firebase';
 import google_logout from '../../assests/google_logo.png';
-import LoginImg from '../../assests/LogInImg.jpg'
+import LoginImg from '../../assests/LogInImg.png'
 const LogIn = () =>{
 const email = useRef<HTMLInputElement>(null);
 const password = useRef<HTMLInputElement>(null);
