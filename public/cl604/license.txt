@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cl604
+* source:	https://sketchfab.com/3d-models/cl604-b13966d135794180bcef9f7e6d593c60
+* author:	manilov.ap (https://sketchfab.com/manilov.ap)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cl604" (https://sketchfab.com/3d-models/cl604-b13966d135794180bcef9f7e6d593c60) by manilov.ap (https://sketchfab.com/manilov.ap) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
