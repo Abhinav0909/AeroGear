@@ -5,6 +5,7 @@ import Navbar from "../components/navbar";
 import Chatroom from "../pages/Chatroom/Chatroom";
 import Aircrafts from "../pages/Aircrafts/Aircrafts";
 import grobG115 from "../pages/grobG115/grobG115";
+import cl604 from "../pages/cl604/cl604";
 const Main = () => {
     return (
         <Router>
@@ -13,6 +14,7 @@ const Main = () => {
                 <Route path="/" exact component={Home}/>
                 <Route path="/aircraft" exact component={Aircrafts} />
                 <Route path ='/aircraft/jet1' exact component ={grobG115}/>
+                <Route path ='/aircraft/jet2' exact component ={cl604}/>
                 <Route path ='/chat' exact component={Chatroom} />
             </Switch>
             <Footer />
